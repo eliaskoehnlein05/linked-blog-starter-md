@@ -978,7 +978,7 @@ Larven haben zilien und sind radikalesymerishc udn schwimmen in sprialen bewegun
 - ‘Churning’ mischende Bewegungen innerhalb der Placozoa
 
 ### Erinerrung an Dickinsonia costata
-[[Tierreich Zusammenfassung_saved version#^cc9bd9|Link]]
+[[Tierreich Zusammenfassung Finished version#^cc9bd9|Link]]
 ### Placozoa - Graviorientierung
 ![[Bildschirmfoto 2024-12-23 um 11.26.14.png]]
 - Kristallzellen

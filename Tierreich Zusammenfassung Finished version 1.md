@@ -137,6 +137,10 @@
 			- [[#Egel - (Annelida, Clitellata)#Landegel - (Annelida, Clitellata)|Landegel - (Annelida, Clitellata)]]
 	- [[#Vorlesung 6: Das Tierreich - *Lophotrochozoa*  1 - Ectoprocta, Annelida, Nemertea#Nemertea (Schnurwürmer)|Nemertea (Schnurwürmer)]]
 		- [[#Nemertea (Schnurwürmer)#Nemertea sind karnivor (Fleischfresser)|Nemertea sind karnivor (Fleischfresser)]]
+			- [[#Nemertea sind karnivor (Fleischfresser)#1. Der Schleim der Nemertea|1. Der Schleim der Nemertea]]
+			- [[#Nemertea sind karnivor (Fleischfresser)#2. Der Proboscis – Der Jagdrüssel|2. Der Proboscis – Der Jagdrüssel]]
+			- [[#Nemertea sind karnivor (Fleischfresser)#3. Das Rhynchocoel – Die Rüsselkammer|3. Das Rhynchocoel – Die Rüsselkammer]]
+			- [[#Nemertea sind karnivor (Fleischfresser)#Visualisierung des Zusammenwirkens|Visualisierung des Zusammenwirkens]]
 		- [[#Nemertea (Schnurwürmer)#Nemertea-Larve - Pilidium|Nemertea-Larve - Pilidium]]
 		- [[#Nemertea (Schnurwürmer)#Nemertea - Metamorphose|Nemertea - Metamorphose]]
 - [[#Vorlesung 7: Das Tierreich - Lophotrochozoa 2 (Brachiopoda, Phoronida, Mollusca) und Gnathifera|Vorlesung 7: Das Tierreich - Lophotrochozoa 2 (Brachiopoda, Phoronida, Mollusca) und Gnathifera]]
@@ -159,6 +163,144 @@
 	- [[#Vorlesung 7: Das Tierreich - Lophotrochozoa 2 (Brachiopoda, Phoronida, Mollusca) und Gnathifera#Brachiopoda/Phoronida|Brachiopoda/Phoronida]]
 		- [[#Brachiopoda/Phoronida#Fossile Lophophorata|Fossile Lophophorata]]
 		- [[#Brachiopoda/Phoronida#Hufeisenwürmer - Phoronida|Hufeisenwürmer - Phoronida]]
+			- [[#Hufeisenwürmer - Phoronida#Hufeisenwürmer - Phoronida - Actinotrocha-Larve|Hufeisenwürmer - Phoronida - Actinotrocha-Larve]]
+			- [[#Hufeisenwürmer - Phoronida#Phoronida - Metamorphose|Phoronida - Metamorphose]]
+		- [[#Brachiopoda/Phoronida#Armfüßern - Brachiopoda|Armfüßern - Brachiopoda]]
+			- [[#Armfüßern - Brachiopoda#Armfüßern - Brachiopoda-Larve|Armfüßern - Brachiopoda-Larve]]
+	- [[#Vorlesung 7: Das Tierreich - Lophotrochozoa 2 (Brachiopoda, Phoronida, Mollusca) und Gnathifera#Weichtiere - Mollusca|Weichtiere - Mollusca]]
+		- [[#Weichtiere - Mollusca#Mollusca - Phylogenie|Mollusca - Phylogenie]]
+			- [[#Mollusca - Phylogenie#Ein Weichtierfossil aus dem Ordovicium|Ein Weichtierfossil aus dem Ordovicium]]
+			- [[#Mollusca - Phylogenie#*Nautilus*: der einzige lebende Cephalopode mit einer Außenschale|*Nautilus*: der einzige lebende Cephalopode mit einer Außenschale]]
+			- [[#Mollusca - Phylogenie#Oktopus vulgaris - Rekonstruktion des zentralen Nervensystems|Oktopus vulgaris - Rekonstruktion des zentralen Nervensystems]]
+				- [[#Oktopus vulgaris - Rekonstruktion des zentralen Nervensystems#Veliger-Larve|Veliger-Larve]]
+	- [[#Vorlesung 7: Das Tierreich - Lophotrochozoa 2 (Brachiopoda, Phoronida, Mollusca) und Gnathifera#Gnathifera|Gnathifera]]
+		- [[#Gnathifera#Rotifera (Rädertierchen)|Rotifera (Rädertierchen)]]
+			- [[#Rotifera (Rädertierchen)#Überleben eines Rädertiers aus dem sibirischen Permafrost|Überleben eines Rädertiers aus dem sibirischen Permafrost]]
+			- [[#Rotifera (Rädertierchen)#Kiefer der Rädertiere|Kiefer der Rädertiere]]
+		- [[#Gnathifera#Chaetognatha - Pfeilwürmer|Chaetognatha - Pfeilwürmer]]
+			- [[#Chaetognatha - Pfeilwürmer#Chaetognatha - Kiefer|Chaetognatha - Kiefer]]
+			- [[#Chaetognatha - Pfeilwürmer#Gnathifera - Körperpläne von Rädertieren und Pfeilwürmern|Gnathifera - Körperpläne von Rädertieren und Pfeilwürmern]]
+- [[#Vorlesung 8:  Das Tierreich - Ecdysozoa (Häutungstiere)|Vorlesung 8:  Das Tierreich - Ecdysozoa (Häutungstiere)]]
+	- [[#Vorlesung 8:  Das Tierreich - Ecdysozoa (Häutungstiere)#Phylogenie - Ecdysozoa|Phylogenie - Ecdysozoa]]
+	- [[#Vorlesung 8:  Das Tierreich - Ecdysozoa (Häutungstiere)#Cycloneuralia|Cycloneuralia]]
+		- [[#Cycloneuralia#Scalidophora|Scalidophora]]
+			- [[#Scalidophora#Priapulida - Rüsselwürmer|Priapulida - Rüsselwürmer]]
+			- [[#Scalidophora#Kinorhyncha - Hakenrüssler|Kinorhyncha - Hakenrüssler]]
+				- [[#Kinorhyncha - Hakenrüssler#Kinorhyncha - Anatomie|Kinorhyncha - Anatomie]]
+		- [[#Cycloneuralia#Loricifera - Korsetttierchen|Loricifera - Korsetttierchen]]
+		- [[#Cycloneuralia#Nematoda|Nematoda]]
+			- [[#Nematoda#Nematoida - Fadenwürmer|Nematoida - Fadenwürmer]]
+				- [[#Nematoida - Fadenwürmer#Nematoda Querschnitt|Nematoda Querschnitt]]
+				- [[#Nematoida - Fadenwürmer#Nematoda - Diversität|Nematoda - Diversität]]
+					- [[#Nematoda - Diversität#Nematoda - Caenorhabditis elegans|Nematoda - Caenorhabditis elegans]]
+				- [[#Nematoida - Fadenwürmer#Nematoda - Parasiten|Nematoda - Parasiten]]
+				- [[#Nematoida - Fadenwürmer#Nematoda - Parasiten - Ascaris suum|Nematoda - Parasiten - Ascaris suum]]
+			- [[#Nematoda#Nematomorpha - Saitenwürmer|Nematomorpha - Saitenwürmer]]
+				- [[#Nematomorpha - Saitenwürmer#Nematomorpha-Larve|Nematomorpha-Larve]]
+	- [[#Vorlesung 8:  Das Tierreich - Ecdysozoa (Häutungstiere)#Panarthropoda|Panarthropoda]]
+		- [[#Panarthropoda#Panarthropoden-Fossilien aus dem Burgess-Schiefer|Panarthropoden-Fossilien aus dem Burgess-Schiefer]]
+		- [[#Panarthropoda#Lobopodian|Lobopodian]]
+		- [[#Panarthropoda#Onychophora - Stummelfüßer|Onychophora - Stummelfüßer]]
+			- [[#Onychophora - Stummelfüßer#Onychophora - Stummelfüßer|Onychophora - Stummelfüßer]]
+		- [[#Panarthropoda#Tardigrada - Bärtierchen|Tardigrada - Bärtierchen]]
+		- [[#Panarthropoda#Arthropoda - Gliederfüßer|Arthropoda - Gliederfüßer]]
+			- [[#Arthropoda - Gliederfüßer#Arthropoda - Diversität|Arthropoda - Diversität]]
+			- [[#Arthropoda - Gliederfüßer#Aufbau eines generalisierten Arthropoden|Aufbau eines generalisierten Arthropoden]]
+			- [[#Arthropoda - Gliederfüßer#Chelicerata - Kieferklauenträger|Chelicerata - Kieferklauenträger]]
+				- [[#Chelicerata - Kieferklauenträger#Chelicerata - Pfeilschwanzkrebs|Chelicerata - Pfeilschwanzkrebs]]
+			- [[#Arthropoda - Gliederfüßer#Crustacea|Crustacea]]
+				- [[#Crustacea#Cirripedia (Crustacea) - Entenmuscheln (Barnacles)|Cirripedia (Crustacea) - Entenmuscheln (Barnacles)]]
+			- [[#Arthropoda - Gliederfüßer#Tausendfüßer - Myriapoda|Tausendfüßer - Myriapoda]]
+			- [[#Arthropoda - Gliederfüßer#Sechsfüßer - Hexapoda|Sechsfüßer - Hexapoda]]
+				- [[#Sechsfüßer - Hexapoda#Hexapoda - Diversität|Hexapoda - Diversität]]
+- [[#Vorlesung 9: Das Tierreich - Ambulacraria|Vorlesung 9: Das Tierreich - Ambulacraria]]
+	- [[#Vorlesung 9: Das Tierreich - Ambulacraria#DEUTEROstomie|DEUTEROstomie]]
+		- [[#DEUTEROstomie#Deuterostomia Apomorphien|Deuterostomia Apomorphien]]
+		- [[#DEUTEROstomie#Stammgruppe Deuterostomia|Stammgruppe Deuterostomia]]
+	- [[#Vorlesung 9: Das Tierreich - Ambulacraria#Ambulacraria (Hemichordata+Echinodermata) Phylogenie|Ambulacraria (Hemichordata+Echinodermata) Phylogenie]]
+	- [[#Vorlesung 9: Das Tierreich - Ambulacraria#Hemichordata|Hemichordata]]
+		- [[#Hemichordata#Hemichordata - Enteropneusta (‘Eichelwürmer’)|Hemichordata - Enteropneusta (‘Eichelwürmer’)]]
+			- [[#Hemichordata - Enteropneusta (‘Eichelwürmer’)#Enteropneusta Gänge|Enteropneusta Gänge]]
+			- [[#Hemichordata - Enteropneusta (‘Eichelwürmer’)#Enteropneusta Aufbau|Enteropneusta Aufbau]]
+			- [[#Hemichordata - Enteropneusta (‘Eichelwürmer’)#Enteropneusta Regenerierung|Enteropneusta Regenerierung]]
+			- [[#Hemichordata - Enteropneusta (‘Eichelwürmer’)#Saccoglossus (Enteropneusta) - Nervensystem|Saccoglossus (Enteropneusta) - Nervensystem]]
+			- [[#Hemichordata - Enteropneusta (‘Eichelwürmer’)#Hemichordata - Enteropneusta (Tiefsee)|Hemichordata - Enteropneusta (Tiefsee)]]
+		- [[#Hemichordata#Hemichordata - Entwicklung|Hemichordata - Entwicklung]]
+			- [[#Hemichordata - Entwicklung#Hemichordata, Enteropneusta - Tornaria-Larve|Hemichordata, Enteropneusta - Tornaria-Larve]]
+		- [[#Hemichordata#Hemichordata - Pterobranchia (Flügelkiemer)|Hemichordata - Pterobranchia (Flügelkiemer)]]
+			- [[#Hemichordata - Pterobranchia (Flügelkiemer)#Hemichordata - Fossilien|Hemichordata - Fossilien]]
+	- [[#Vorlesung 9: Das Tierreich - Ambulacraria#Echinodermata - Stachelhäuter|Echinodermata - Stachelhäuter]]
+		- [[#Echinodermata - Stachelhäuter#Echinodermata - Pentamerie|Echinodermata - Pentamerie]]
+		- [[#Echinodermata - Stachelhäuter#Echinodermata - Ambulakralsystem|Echinodermata - Ambulakralsystem]]
+		- [[#Echinodermata - Stachelhäuter#Echinodermata - Ambulacralsystem und Pentamerie|Echinodermata - Ambulacralsystem und Pentamerie]]
+			- [[#Echinodermata - Ambulacralsystem und Pentamerie#Seesterne (Asteroidea) - Anatomie|Seesterne (Asteroidea) - Anatomie]]
+				- [[#Seesterne (Asteroidea) - Anatomie#Seestern-Larve|Seestern-Larve]]
+					- [[#Seestern-Larve#Brachiolaria-Larve und Metamorphose|Brachiolaria-Larve und Metamorphose]]
+			- [[#Echinodermata - Ambulacralsystem und Pentamerie#Seeigel - innere Anatomie|Seeigel - innere Anatomie]]
+				- [[#Seeigel - innere Anatomie#Seeigel-Larve|Seeigel-Larve]]
+					- [[#Seeigel-Larve#Metamorphose|Metamorphose]]
+			- [[#Echinodermata - Ambulacralsystem und Pentamerie#Holothuriidae - Seegurken oder Holothurien|Holothuriidae - Seegurken oder Holothurien]]
+				- [[#Holothuriidae - Seegurken oder Holothurien#Holothurien - Nahrung|Holothurien - Nahrung]]
+				- [[#Holothuriidae - Seegurken oder Holothurien#Holothurien - Selbstverteidigung 1|Holothurien - Selbstverteidigung 1]]
+				- [[#Holothuriidae - Seegurken oder Holothurien#Holothurien - Selbstverteidigung 2|Holothurien - Selbstverteidigung 2]]
+					- [[#Holothurien - Selbstverteidigung 2#Holothurien und Fische|Holothurien und Fische]]
+			- [[#Echinodermata - Ambulacralsystem und Pentamerie#Echinodermata, Crinoidea (Seelilien)|Echinodermata, Crinoidea (Seelilien)]]
+				- [[#Echinodermata, Crinoidea (Seelilien)#Doliolaria-Larve|Doliolaria-Larve]]
+		- [[#Echinodermata - Stachelhäuter#Evolution der Larvenformen bei Echinodermen|Evolution der Larvenformen bei Echinodermen]]
+	- [[#Vorlesung 9: Das Tierreich - Ambulacraria#Xenoturbellida|Xenoturbellida]]
+		- [[#Xenoturbellida#Acoelomorpha|Acoelomorpha]]
+		- [[#Xenoturbellida#Xenacoelomorpha|Xenacoelomorpha]]
+- [[#Vorlesung 10: Das Tierreich - Chordata|Vorlesung 10: Das Tierreich - Chordata]]
+	- [[#Vorlesung 10: Das Tierreich - Chordata#Chordata - Chordatiere|Chordata - Chordatiere]]
+		- [[#Chordata - Chordatiere#Chordata - Notochord|Chordata - Notochord]]
+		- [[#Chordata - Chordatiere#Hemichordata - Stomochord|Hemichordata - Stomochord]]
+	- [[#Vorlesung 10: Das Tierreich - Chordata#Tunicata/Urochordata - Manteltiere|Tunicata/Urochordata - Manteltiere]]
+		- [[#Tunicata/Urochordata - Manteltiere#Manteltiere/Urochorata - drei Gruppen|Manteltiere/Urochorata - drei Gruppen]]
+		- [[#Tunicata/Urochordata - Manteltiere#1. Seescheiden (Ascidien, Ascidiae)|1. Seescheiden (Ascidien, Ascidiae)]]
+			- [[#1. Seescheiden (Ascidien, Ascidiae)#Ascidien (Seescheiden) - Körperbau|Ascidien (Seescheiden) - Körperbau]]
+			- [[#1. Seescheiden (Ascidien, Ascidiae)#Ascidien - Wasserströmung|Ascidien - Wasserströmung]]
+				- [[#Ascidien - Wasserströmung#Ascidien - Ciona intestinalis|Ascidien - Ciona intestinalis]]
+			- [[#1. Seescheiden (Ascidien, Ascidiae)#Ascidien - Entwicklung und Larve|Ascidien - Entwicklung und Larve]]
+			- [[#1. Seescheiden (Ascidien, Ascidiae)#Notochord in den Ascidien|Notochord in den Ascidien]]
+			- [[#1. Seescheiden (Ascidien, Ascidiae)#Ascidien Larve, Nervensystem|Ascidien Larve, Nervensystem]]
+		- [[#Tunicata/Urochordata - Manteltiere#2. Salpen (Thaliacea)|2. Salpen (Thaliacea)]]
+	- [[#Vorlesung 10: Das Tierreich - Chordata#Manteltiere - Endostyl (organ)|Manteltiere - Endostyl (organ)]]
+		- [[#Manteltiere - Endostyl (organ)#3. Appendikularien (Larvacea)|3. Appendikularien (Larvacea)]]
+			- [[#3. Appendikularien (Larvacea)#Das Gehäuse der Appendikularien|Das Gehäuse der Appendikularien]]
+			- [[#3. Appendikularien (Larvacea)#Appendikularien - zyklische Schwanzschläge|Appendikularien - zyklische Schwanzschläge]]
+			- [[#3. Appendikularien (Larvacea)#Appendikularier - oikoplastisches Epithel|Appendikularier - oikoplastisches Epithel]]
+	- [[#Vorlesung 10: Das Tierreich - Chordata#Cephalochordata -  Kopfchordaten, Schädellose (Amphioxus)|Cephalochordata -  Kopfchordaten, Schädellose (Amphioxus)]]
+		- [[#Cephalochordata -  Kopfchordaten, Schädellose (Amphioxus)#Amphioxus (Cephalochordata) - Anatomie|Amphioxus (Cephalochordata) - Anatomie]]
+		- [[#Cephalochordata -  Kopfchordaten, Schädellose (Amphioxus)#Amphioxus Mund|Amphioxus Mund]]
+		- [[#Cephalochordata -  Kopfchordaten, Schädellose (Amphioxus)#Amphioxus - Pharynx|Amphioxus - Pharynx]]
+		- [[#Cephalochordata -  Kopfchordaten, Schädellose (Amphioxus)#Amphioxus Entwicklung|Amphioxus Entwicklung]]
+		- [[#Cephalochordata -  Kopfchordaten, Schädellose (Amphioxus)#Amphioxus Notochord|Amphioxus Notochord]]
+		- [[#Cephalochordata -  Kopfchordaten, Schädellose (Amphioxus)#Amphioxus Hautzellen|Amphioxus Hautzellen]]
+		- [[#Cephalochordata -  Kopfchordaten, Schädellose (Amphioxus)#Amphioxus-Larve|Amphioxus-Larve]]
+			- [[#Amphioxus-Larve#Amphioxus-Larve - Nahrung|Amphioxus-Larve - Nahrung]]
+		- [[#Cephalochordata -  Kopfchordaten, Schädellose (Amphioxus)#Amphioxus - Sinnesorgane|Amphioxus - Sinnesorgane]]
+- [[#Vorlesung 11: Das Tierreich - Vertebrata|Vorlesung 11: Das Tierreich - Vertebrata]]
+	- [[#Vorlesung 11: Das Tierreich - Vertebrata#Vertebrata - Wirbeltiere|Vertebrata - Wirbeltiere]]
+	- [[#Vorlesung 11: Das Tierreich - Vertebrata#Phylogenie - Vertebrata|Phylogenie - Vertebrata]]
+	- [[#Vorlesung 11: Das Tierreich - Vertebrata#Rundmäuler (Cyclostomata)|Rundmäuler (Cyclostomata)]]
+		- [[#Rundmäuler (Cyclostomata)#Rundmäuler (Cyclostomata) - Fossilien|Rundmäuler (Cyclostomata) - Fossilien]]
+		- [[#Rundmäuler (Cyclostomata)#Neunaugen (Petromyzontiformes)|Neunaugen (Petromyzontiformes)]]
+			- [[#Neunaugen (Petromyzontiformes)#Neunaugen - Körperbau|Neunaugen - Körperbau]]
+			- [[#Neunaugen (Petromyzontiformes)#Neunaugen-Larve (Ammocoete, Querder) - Endostyl|Neunaugen-Larve (Ammocoete, Querder) - Endostyl]]
+		- [[#Rundmäuler (Cyclostomata)#Schleimaale (Myxini)|Schleimaale (Myxini)]]
+			- [[#Schleimaale (Myxini)#Schleimaale - Masters of Schleim…|Schleimaale - Masters of Schleim…]]
+	- [[#Vorlesung 11: Das Tierreich - Vertebrata#Gnathostomata|Gnathostomata]]
+		- [[#Gnathostomata#Notochord - Chorda dorsalis|Notochord - Chorda dorsalis]]
+	- [[#Vorlesung 11: Das Tierreich - Vertebrata#Wirbelsäule|Wirbelsäule]]
+		- [[#Wirbelsäule#Vertebrae - Wirbeln|Vertebrae - Wirbeln]]
+		- [[#Wirbelsäule#Vertebrae - Wirbeln, Evolution|Vertebrae - Wirbeln, Evolution]]
+		- [[#Wirbelsäule#Plakoden|Plakoden]]
+		- [[#Wirbelsäule#Neuralleiste (Eng.: neural crest)|Neuralleiste (Eng.: neural crest)]]
+	- [[#Vorlesung 11: Das Tierreich - Vertebrata#Vertebrata - Schädel|Vertebrata - Schädel]]
+		- [[#Vertebrata - Schädel#Der Großteil des Schädels stammt aus Neuralleistenzellen|Der Großteil des Schädels stammt aus Neuralleistenzellen]]
+	- [[#Vorlesung 11: Das Tierreich - Vertebrata#Entwicklung des Kiefers|Entwicklung des Kiefers]]
+			- [[#Der Großteil des Schädels stammt aus Neuralleistenzellen#drei Hypothesen zur Entstehung der Kiefers|drei Hypothesen zur Entstehung der Kiefers]]
+
 
 # Vorlesung 1: Das Tierreich - aber erst Protozoa
 - Tiere haben sich aus protistischen Vorfahren entwickelt.
@@ -2041,3 +2183,694 @@ Treptichniden-artige Wühlsysteme aus dem Kambrium
 
 ---
 # Vorlesung 9: Das Tierreich - Ambulacraria
+![[Bildschirmfoto 2024-12-26 um 10.51.57.png]]
+- In Vorlesung 9:
+	- Hemichordata
+	- Echinodermata
+	- Xenoturbellida
+## DEUTEROstomie
+![[Bildschirmfoto 2024-12-26 um 10.54.06.png]]
+- Blastoporus bleibt anus und es bildet sich der Mund neu 
+- der Mund ist eine neue Öffnung = **DEUTEROstomie** 
+- Neumünder = **Deuterostomata**
+### Deuterostomia Apomorphien
+1. ![[Bildschirmfoto 2024-12-26 um 10.54.45.png]]
+	- Kiemenspalten (entwickelten sich bei den Deuterostomia, Echinoderme verloren diese)
+	- mesodermales Skelet
+2. ![[Bildschirmfoto 2024-12-26 um 10.55.16.png]]
+	- Calcichordata (ausgestorbene Stachelhäuter (Kambrium- Devon))
+3. ![[Bildschirmfoto 2024-12-26 um 10.56.18.png]]
+	- *Stylophora* (ausgestorben
+	- keine Pentamerie 
+	- Kiemenspalten
+### Stammgruppe Deuterostomia
+- Erschinen im Kambrium
+ ![[Bildschirmfoto 2024-12-27 um 15.20.30.png]]
+ - äußere Kiemen 
+ - 517 Millionen Jahre alt
+ 
+## Ambulacraria (Hemichordata+Echinodermata) Phylogenie
+![[Bildschirmfoto 2024-12-27 um 15.21.33.png]]
+## Hemichordata
+![[Bildschirmfoto 2024-12-27 um 15.26.06.png]]
+- zwei Klassen: Enteropneusta (‘Eichelwürmer’) und Pterobranchia 
+- Hemichordata - die Schwestergruppe der Echinodermen 
+- ausschließlich marine Organismen
+### Hemichordata - Enteropneusta (‘Eichelwürmer’)
+![[Bildschirmfoto 2024-12-27 um 15.27.22.png]]
+- in schlammigen oder sandigen Ablagerungen in den Ozeanen 
+- muskulöses Prosoma (Rüssel), eingeschnürter Halsbereich, kurzer Kragen,
+- solitär lebende Würmer 
+- einige cm bis zu 2m Länge 
+- Kiemenspalten im wurmartigen Rumpf 
+- mit Zilien bedeckte Körperoberfläche 
+- Suspensions- und Detritusfresser
+#### Enteropneusta Gänge
+![[Bildschirmfoto 2024-12-27 um 15.28.37.png]]
+![[Bildschirmfoto 2024-12-27 um 15.28.51.png]]
+#### Enteropneusta Aufbau
+![[Bildschirmfoto 2024-12-27 um 15.29.13.png]]
+
+- Prosoma (Eichel), Mesosoma (Kragen) und Metasoma (Rumpf) mit Kiemenspalten 
+- getrenntgeschlechtlich
+- Kiemenöffnungen verbunden mit dem Pharynx 
+- Zilien bewegen Wasser durch die Kiemenöffnungen 
+- dorsaler und ventraler Nervenstrang 
+- Schwanz
+![[Bildschirmfoto 2024-12-27 um 15.29.50.png]]
+#### Enteropneusta Regenerierung
+![[Bildschirmfoto 2024-12-27 um 15.31.01.png]]
+- Kopf regenierierbar
+![[Bildschirmfoto 2024-12-27 um 15.31.37.png]]
+#### Saccoglossus (Enteropneusta) - Nervensystem
+![[Bildschirmfoto 2024-12-27 um 15.32.17.png]]
+![[Bildschirmfoto 2024-12-27 um 15.32.25.png]]
+- teilweise diffuses Nervensystem 
+- sehr konzentriert im Prosoma 
+- dorsaler und ventraler Nervenstrang
+- Kein richtiges Gehirn
+#### Hemichordata - Enteropneusta (Tiefsee)
+![[Bildschirmfoto 2024-12-27 um 15.33.08.png]]
+*Tiefseefotografien von breitkragigen Enteropneusten, die bisher noch nicht gesammelt und genauer beschrieben werden konnten*
+### Hemichordata - Entwicklung
+>[!info] Indirekte Entwicklung
+>Die Entwicklung zu einem erwachsenen Körperplan erfolgt über einen eigenständigen Larvenkörperplan, gefolgt von einer Metamorphose zum Erwachsenen.
+
+>[!info] Direkte Entwicklung
+>Die Entwicklung zu einem erwachsenen Körperplan ohne ein dazwischenliegendes Larvenstadium mit einem deutlich anderen Körperplan.
+
+- Enteropneusta: Arten mit direkter (Saccoglossus) oder indirekter (Ptychodera) Entwicklung 
+- Pterobranchia: direkte Entwicklung (keine Larve)
+#### Hemichordata, Enteropneusta - Tornaria-Larve
+![[Bildschirmfoto 2024-12-27 um 15.36.54.png]]
+![[Bildschirmfoto 2024-12-27 um 15.37.02.png]]
+- Enteropneusta: manche Arten mit indirekter Entwicklung (Ptychodera)
+- Tornaria-Larve 
+- Augenflecken 
+- Zilien 
+- Planktotrophie
+### Hemichordata - Pterobranchia (Flügelkiemer)
+![[Bildschirmfoto 2024-12-27 um 15.38.05.png]]
+- winzige (1 mm), sessile Tiere 
+- Tiefsee 
+- in Kolonien, in Röhren 
+- dreiteiliger Körper 
+- ein Paar Kiemenspalten oder gar keine 
+- mit Wimpern besetzten Tentakel des Mesosoms transportieren Nahrungspartikel zum Mund 
+- etwa 10 Arten
+- direkte Entwicklung (keine Larve)
+#### Hemichordata - Fossilien
+- 506 Millionen Jahre alte Burgess-Schiefer Fossilien 
+- dreiteiliger, wurmförmiger Körperbau mit einem langen Rüssel
+- sechs Fütterungsarme mit Tentakel
+- Irgendwie eine Fusion zwischen **Enteropneusta** und **Pterobranchia**
+![[Bildschirmfoto 2024-12-27 um 15.43.37.png]]
+*Gyaltsenglossus senis*
+- Stammgruppe der Hemichordaten 
+- bimodale Ernährung 
+- Tentakel für Filtrieren, Rüssel für Sedimentfütterung
+![[Bildschirmfoto 2024-12-27 um 15.45.37.png]]
+![[Bildschirmfoto 2024-12-27 um 15.46.01.png]]
+- Anordnung von ausgestorbenen Fossilformen und rezenten Tieren in einem Stammbaum 
+- Rekonstruktion der Evolution der Körperpläne der Ambulacraria
+
+>[!Quizfrage]  Welche Antwort ist richtig (nur eine)?
+>-A) Echinodermata haben Kiemenspalten (ne haben sie verloren)
+>B) Hemichordaten sind Vertebraten 
+>C) Alle Fossilien gehören zur Stammgruppen 
+>**D) Hemichordata und Echinodermata sind Schwestergruppen**
+>E) Echinodermata entwickeln sich aus einer Zygote, die befruchtet wird
+## Echinodermata - Stachelhäuter
+- Seeigel (Echinoiden) 
+- Seesterne (Asteroideen) 
+- Seelilien und Haarsterne (Crinoiden) 
+- Seegurken (Holothuroiden) 
+- Schlangensterne (Ophiuroiden)
+![[Bildschirmfoto 2024-12-27 um 15.49.03.png]]
+![[Bildschirmfoto 2024-12-27 um 15.49.09.png]]
+### Echinodermata - Pentamerie
+- Pentamerie (fünfstrahlige Radiärsymmetrie) 
+- 5 Radien (mit Ambulakralplatten) 
+- 5 Interradien (mit Interambulakralplatten)
+![[Bildschirmfoto 2024-12-27 um 15.49.47.png]]
+- Enstanden aus Bilateria aber warum jetzt 5 weiß keiner
+### Echinodermata - Ambulakralsystem
+![[Pasted image 20241227155046.png]]
+- Kanalsystem im Inneren der Tiere 
+- mit Coelomflüssigkeit gefüllt 
+- ein **hydraulisches** System
+- muskulöse Ampullen pressen Flüssigkeit in die Füßchen 
+- führt zu einem Ausstrecken der Füßchen zur Fortbewegung und zur Reinigung
+![[Bildschirmfoto 2024-12-27 um 15.51.13.png]]
+### Echinodermata - Ambulacralsystem und Pentamerie
+![[Bildschirmfoto 2024-12-27 um 15.52.00.png]]
+![[Bildschirmfoto 2024-12-27 um 15.52.11.png]]
+- Ringkanal um Vorderdarm mit 5 Radiärkanälen 
+- Seitenkanäle und Ampullae
+- (Auch bei Seegurken Pentradial)
+#### Seesterne (Asteroidea) - Anatomie
+![[Bildschirmfoto 2024-12-27 um 15.54.11.png]]
+- meist fünfarmiger Stern 
+- Ambulakralfüßchen an der Unterseite der Arme 
+- zentraler Nervenring um die Mundscheibe 
+- radiäre Nervenstränge in die Arme 
+- räuberisch Mundöffnung auf der Unterseite 
+- Magen ist ausstülpbar 
+- Nahrung wird außerhalb des Körpers verdaut
+- Sind Prädatorisch
+- Lichtsensorisch
+##### Seestern-Larve
+![[Bildschirmfoto 2024-12-27 um 15.55.15.png]]
+- zwei Larvenstadien 
+- Bipinnaria-Larve 
+- Brachiolaria-Larve 
+- frei schwimmende planktotropische Larven
+![[Bildschirmfoto 2024-12-27 um 15.56.36.png]]
+![[GIF von Imgflip (12).gif]]
+###### Brachiolaria-Larve und Metamorphose
+![[Bildschirmfoto 2024-12-27 um 15.57.57.png]]
+- Brachiolaria-Larve durchläu Metamorphose 
+- Umwandlung in einen fünfstrahligen Seestern mit pentamerer Symmetrie
+![[Bildschirmfoto 2024-12-27 um 15.58.23.png]]
+![[Gif von Imgflip (13).gif|600]]
+
+
+#### Seeigel - innere Anatomie
+![[Bildschirmfoto 2024-12-27 um 15.59.45.png]]
+-  Skelett (Gehäuse) aus Kalziumkarbonat 
+- Gehäuse liegt unterhalb der Epidermis 
+- bewegliche Stacheln aus Kalziumkarbonat 
+- Kieferapparat 
+- Ambulakralsystem 
+- Pedicellarien
+##### Seeigel-Larve
+![[Bildschirmfoto 2024-12-27 um 16.01.09.png]]
+###### Metamorphose
+- Rudiment der erwachsenen Tiere in der Larve 
+- Larve mit bilateralen Symmetrie 
+- Jungtier mit pentaradialen Symmetrie 
+- Metamorphose
+#### Holothuriidae - Seegurken oder Holothurien
+![[Bildschirmfoto 2024-12-27 um 16.02.22.png]]
+- Meeresbewohner 
+- 1 Millimeter bis 2.5 Meter 
+- sekundäre Bilateralsymmetrie
+##### Holothurien - Nahrung
+- Sedimentfresser und Planktonfresser 
+- Planktonfresser mit Tentakelkranz
+![[GIF von Imgflip (14).gif|700]]
+##### Holothurien - Selbstverteidigung 1
+- Selbstverteidigung 
+- Eviszeration 
+- der Darm kann vollständig regenerieren
+![[Gif von Imgflip (15).gif]]
+Wirft seinen Darm aus dem Anus aus um den Angreifer abzulenken (toxischer darm)
+##### Holothurien - Selbstverteidigung 2
+![[Bildschirmfoto 2024-12-27 um 16.08.51.png]]
+- das Cuvier-Organ und Cuviersche Schläuche 
+- Tubuli werden durch den After ausgestoßen 
+- klebrige Schleimfäden
+###### Holothurien und Fische
+![[GIF von Imgflip (16).gif|600]]
+- Schwimmt in den Anus als sicherer Hafen
+#### Echinodermata, Crinoidea (Seelilien)
+- Gliederung in Kelch, Stiel und 5, 10 oder 20- Arme (Krone) 
+- mit Stiel am Meeresboden befestigt 
+- filtriert Plankton
+- Mund und After auf Oberseite des Kelches 
+- Gonaden in alternierende Verzweigungen der Arme verlagert
+![[Bildschirmfoto 2024-12-27 um 16.14.37.png]]
+![[GIF von Imgflip (17).gif|700]]
+#####  Doliolaria-Larve
+- zwei aufeinander folgende Larvenstadien 
+- nicht-fressendes Auricularia-Stadium 
+- eine Doliolaria-Larve
+![[Bildschirmfoto 2024-12-27 um 16.17.42.png]]
+### Evolution der Larvenformen bei Echinodermen
+![[Bildschirmfoto 2024-12-27 um 16.17.59.png]]
+## Xenoturbellida
+![[Pasted image 20241227161904.png]]
+- marin auf Schlammböden 
+- bis zu 20 cm lang (vor allem in der Tiefsee) 
+- bauchseitigen Mittelrinne mit Zilien und Mund 
+- Statocyste 
+- diffuses Nervensystem
+- Ähnelt Plattwurm ist aber keiner
+- Sind nicht mit Muscheln verwandt sondern essen sie !
+### Acoelomorpha
+- Verwandt mit Xenoturbella
+![[Pasted image 20241227162050.png]]
+- kleine wurmartige Tiere 
+- mit Zilien bedeckt 
+- Statocyste 
+- diffuses Nervensystem
+### Xenacoelomorpha
+![[Bildschirmfoto 2024-12-27 um 16.21.17.png]]
+-  Acoela + Xenoturbellida + Nemertodermatida = Xenacoelomorpha 
+- Xenacoelomorpha + Ambulacraria = Xenambulacraria
+![[Bildschirmfoto 2024-12-27 um 16.21.35.png]]
+-  Mesoderm bildet nur Muskulatur 
+- Sack-förmiger Darm mit nur einer Mundöffnung 
+- keine Exkretionsorgane 
+- anteriore Statocyste (Gleichgewichtsorgan)
+
+>[!info] Warum ist das alles wichtig?
+>- wichtige Bestandteile mariner Nahrungsketten 
+>- Verständnis der Evolution von Körperplänen 
+>- wichtige Nahrungsquelle 
+>- unerforschte Vielfalt, z. B. in der Tiefsee 
+>- Ausbrüche von Seesternen zerstören Korallenriffe (Dornenkronenseesterne)
+
+>[!info] Besonders für die Klausur ist es wichtig …
+>- Phylogenie der Ambulacraria (auf Stamm-Ebene) 
+>- Form und Funktion - Ambulakralsystem 
+>- Typen von Larven zu benennen und erkennen 
+>- Definition: Xenacoelomorpha, Ambulacraria, Echinodermata, Hemichordata
+>- Körperbau: Hemichordata, Echinodermata 
+>- Vertreter der Ambulacraria zu erkennen
+
+
+--- 
+# Vorlesung 10: Das Tierreich - Chordata
+![[Bildschirmfoto 2024-12-27 um 16.43.07.png]]
+Vorlesung 10:
+- Cephalochordata
+- Urochordata
+- Vertebrata
+## Chordata - Chordatiere
+![[Bildschirmfoto 2024-12-27 um 16.45.22.png]]
+- Chorda dorsalis (oder Notochord)
+- dorsaler hohle Nervenstrang 
+- Kiemenspalten 
+- postanaler Schwanz 
+- Endostyl(homolog mit Schilddrüse)
+- Hypophyse (eine vom Hypothalamus gesteuert Hormondrüse) 
+- Links-Rechts-Asymmetrien 
+- umgekehrte dorsoventrale Organisation im Vergleich zu der der Protostomia
+$\implies$ Monophyletisches Taxom
+### Chordata - Notochord
+- Chorda dorsalis (Notochord) 
+- eine flexible Stab 
+- in Entwicklungsstadien der Chordatiere 
+- Amphioxus und appendikuläre Tunikaten behalten das Notochord bis zum Erwachsenenstadium 
+- Vertebraten: in den Entwicklungsstadien vorhanden, im Erwachsenen durch die Wirbelsäule aus Knorpel oder Knochen ersetzt 
+- (Ausnahmen: Schleimaale, Neunaugen und Störe)
+![[Bildschirmfoto 2024-12-27 um 16.48.54.png]]
+- Nervenstrang (blau), 
+- Notochord (rot), 
+- axiale Muskulatur (grün),
+- Endoderm (gelb),
+- Keimdrüsen (violett)
+### Hemichordata - Stomochord
+![[Bildschirmfoto 2024-12-27 um 16.51.33.png]]
+- Stomochord: anteriorer Auswuchs des Pharynx- Endoderms im Prostoma 
+- Bateson (1886) schlug die Homologie dieses Organs mit dem Notochord der Chordatiere vor 
+- bezeichnete die Gruppe als „Hemichordaten“ 
+- die Homologie ist weiterhin unklar
+## Tunicata/Urochordata - Manteltiere
+![[Bildschirmfoto 2024-12-27 um 16.52.40.png]]
+- die Schwestergruppe der Wirbeltiere 
+- eine Chorda im Schwanz in den larvalen Stadien 
+- haben einen Mantel (Tunica) aus Tunicin (Cellulose) - sessile auf dem Meeresboden (Seescheiden) oder planktonisch (Salpen, Appendikularien)
+### Manteltiere/Urochorata - drei Gruppen
+### 1. Seescheiden (Ascidien, Ascidiae)
+#### Ascidien (Seescheiden) - Körperbau
+![[Bildschirmfoto 2024-12-27 um 16.54.03.png]]
+- sessile Manteltiere 
+- mit Mantel 
+- wenige mm bis zu 30 cm 
+- Hermaphroditen oder Zwitter 
+- Nahrungsstrudler, innere Mikrofiltrierer 
+- Ein- und Ausström-Öffnung, U- förmiger Darm 
+- Kiemendarm mit Kiemenspalten
+#### Ascidien - Wasserströmung
+![[Gif von Imgflip (18).gif]]
+*Ciona intestinalis*
+- Ein- und Ausström-Öffnung, U-förmiger Darm 
+- erzeugt durch Zilienschlag im Pharynx
+##### Ascidien - Ciona intestinalis
+![[Bildschirmfoto 2024-12-27 um 16.56.17.png]]
+- Schlauchseescheide 
+- Filtrierer 
+- die Larven sind freilebend 
+- Modellorganismus (Entwicklungsbiologie, Molekulargenetik, Neurobiologie)
+- Transgene Tiere durch:
+	- Mikroinjektion 
+- Entwicklung kartiert
+#### Ascidien - Entwicklung und Larve
+![[Bildschirmfoto 2024-12-27 um 16.57.34.png]]
+*Ascidiella aspersa*
+![[Bildschirmfoto 2024-12-27 um 16.58.25.png]]
+- *Ciona intestinalis* Larve
+- schwimmen mit Muskeln (keine Bewimperung)
+- Alexander Kowalevsky (1840–1901) had die Manteltierlarven entdeckt 
+- er argumentierte, dass die Manteltiere zusammen mit den Wirbeltieren als Chordatiere gruppiert werden sollten (Früher als Weichtiere betrachtet)
+#### Notochord in den Ascidien
+![[Bildschirmfoto 2024-12-27 um 17.00.34.png]]
+*Ciona intestinalis Notochord markiert mit einem transgenen Konstrukt (grün)*
+- Chorda dorsalis (Notochord) 
+- embryonale Mittellinienstruktur 
+- axiale strukturelle Unterstützung
+#### Ascidien Larve, Nervensystem
+![[Bildschirmfoto 2024-12-27 um 17.01.47.png]]
+*Ciona intestinalis*
+- 180 Neuronen 
+- etwa 50 morphologische Typen 
+- **en passant** Synapsen zwischen Axonen 
+- ein komplexes synaptisches Netzwerk
+![[GIF von Imgflip (19).gif|700]]
+- der Pharynx hat mehrere Löcher/Schlitze (Kiemenschlitze oder Stigmata)
+- Meerwasser strömt durch den Mund ein 
+- Nahrungspartikel werden im Pharynx erfasst
+
+Wenn etwas schief geht (zb raubiter oder zu großes Partikel)
+- Zilien auf den stigmatalen Zellen erzeugen die Strömung 
+- metachronale Wellen 
+- mechanische Reize -> Zilienunterbrechung gleichzeitig mit dem ‘Spritzen’
+
+>[!info] Ascidien als Nahrung - Halocynthia roretzi
+>![[Bildschirmfoto 2024-12-27 um 17.05.41.png]]
+### 2. Salpen (Thaliacea)
+![[Bildschirmfoto 2024-12-27 um 17.05.56.png]]
+-  marine pelagische frei schwimmende Manteltiere mit einem komplexen Lebenszyklus 
+- solitäre und koloniale Phasen 
+- artenspezifische Strukturen (transversale, schräge, lineare, helikale und zweifach gefiederte Ketten) 
+- Strahlantrieb zur Fortbewegung
+## Manteltiere - Endostyl (organ)
+![[Bildschirmfoto 2024-12-27 um 17.06.45.png]]
+*Salpa fusiformis* (anterior nach links) (m) Muskelbänder (e) Endostyl (p) peripharyngealen Bänder (b) Kiemenleiste
+![[Bildschirmfoto 2024-12-27 um 17.07.05.png]]
+-Schematische Ansicht der inneren Oberfläche der Endostyl Oben links: Schematischer Querschnitt des Mittelteils der Endostyl
+- Drüsenzellen (g) 
+- Grobe Punkte: mit ‘Schleim’ bedeckte Oberflächen 
+- b, c, cc, f1, f2: Zilien
+![[Bildschirmfoto 2024-12-27 um 17.07.38.png]]
+*Netz das sekretiert wird*
+- das Endostyl produziert einen feinen Filter aus Schleim 
+- orthogonales Netz 
+- ‘Schleim’-Filter wird zusammen mit eingefangenen Partikeln aufgenommen
+### 3. Appendikularien (Larvacea)
+![[GIF von Imgflip (21).gif|700]]
+- leben im Meer als Filtrierer 
+- kaulquappenartiger Körper 
+- Rumpf und Schwanz mit Chorda dorsalis 
+- sezernieren Gehäuse aus einer schleimigen Substanz um Nahrung aus dem Wasser zu filtern 
+- regelmäßiges Schlagen des Schwanzes erzeugt einen Wasserstrom durch das Gehäuse, dass als komplexer Filter mit Gängen und Kammern ausgebildet ist (zu groß für Zilien ! deswegen wird hier der Schwanz genutzt)
+- können den Gehäuse verlassen und neues sezernieren - mehrmals pro Tag
+![[Bildschirmfoto 2024-12-27 um 17.13.18.png]]
+#### Das Gehäuse der Appendikularien
+![[Bildschirmfoto 2024-12-27 um 17.16.25.png]]
+*Megalocercus huxleyi*
+(IF) Einströmfilter; (FF) Futterfilter; (T) Rumpf; (Ta) Schwanz; (OHM) äußere Gehäusemembran
+- Querschnittsseitenansicht des Gehäuses 
+- Pfeile zeigen die Flussrichtung an
+- wenn der Schwanz wasser reinschlägt wird das gehäuse aufgeblasen
+- Entleeren das Gehäuse manchmal wie eine art reinigung
+#### Appendikularien - zyklische Schwanzschläge
+- wellenförmige Bewegung des Tier-Schwanzes 
+- erzeugt Wasserstrom durch das Gehäuse
+- Die Tiere haben zwei Filtrationsapparate: 
+	- einen extrazellulären aus sezerniertem Schleim (das Gehäuse) 
+	- einen internen Filter (Kiemendarm, Pharyngealfilter)
+	![[GIF von Imgflip (22).gif]]
+
+#### Appendikularier - oikoplastisches Epithel
+![[Bildschirmfoto 2024-12-27 um 17.19.05.png]]
+- oikoplastisches Epithel produziert das Gehäuse 
+- komplexe zelluläre Anordnungen mit invariablen Mustern 
+- Domänen wurden mit zellulärer Auflösung definiert
+- Evolutionäre neuheit
+![[Bildschirmfoto 2024-12-27 um 17.19.25.png]]
+- Gehäuse-sekretierendes Epithel 
+- spezifiziert mit mehreren Transkriptionsfaktoren mit Homeodomänen 
+- stark regionalisiertes Epithel
+>[!Quizfrage] Welche Antwort ist richtig (nur eine)?
+>- A) Alle Chordatiere haben Wirbel 
+>- B) Appendikularien sind die Schwestergruppe der Wirbeltiere 
+>- C) Appendikularien sind eine Gruppe innerhalb der Gnathifera 
+>- D) Appendikularien haben nur haploide mehrzellige Stadien 
+>- **E) Das Endostyl ist eine ventral im Kiemendarm gelegene Rinne das ein Schleimnetz produziert**
+## Cephalochordata -  Kopfchordaten, Schädellose (Amphioxus)
+![[Bildschirmfoto 2024-12-27 um 17.21.48.png]]
+- Körper ist langgestreckt mit spitzen Enden 
+- wenige Zentimeter lang als erwachsene Tiere 
+- benthische Tiere 
+- filtrieren das Meerwasser 
+- dorsaler hohler Nervenstrang, 
+- Chorda dorsalis entlang des gesamten Körpers 
+- Kiemenspalten im Kiemendarm 
+- segmentierte Muskeln und Gonaden 
+- postanaler Schwanz mit Schwanzflosse
+### Amphioxus (Cephalochordata) - Anatomie
+![[Bildschirmfoto 2024-12-27 um 17.22.50.png]]
+- Neuralrohr 
+- Chorda dorsalis 
+- Kiemendarm, Caecum (Magenblindsack) zur Verdauung 
+- orale Cirri 
+- Kiemenspalten 
+- Schleim-produzierendes Endostyl wie bei Urochordata
+>[!Beispiel] Amphioxus
+>![[Bildschirmfoto 2024-12-27 um 17.23.37.png]]
+>- orale Cirri 
+>- postanaler Schwanz mit Schwanzflosse 
+>- symmetrisches Jung- und Adulttier 
+>- segmentierte V-förmige Muskeln
+### Amphioxus Mund
+![[Bildschirmfoto 2024-12-27 um 17.24.10.png]]
+-  **orale Cirri** - Eindringen großer Partikel in den Pharynx verhindert
+### Amphioxus - Pharynx
+![[GIF von Imgflip (23).gif|700]]
+![[GIF von Imgflip (24).gif|700]]
+-  Wasserfiltrierung 
+- der Pharynx kann Partikel nach Größe sortieren 
+- Raus oder in den Darm
+- Atriopore
+### Amphioxus Entwicklung
+![[Bildschirmfoto 2024-12-27 um 17.29.04.png]]
+- Bewimperte frühe Larvenstadien 
+- die Larven sind asymmetrisch 
+- Mund und Aer auf der linken Seite des Körpers
+### Amphioxus Notochord
+![[Bildschirmfoto 2024-12-27 um 17.29.31.png]]
+- entwickelt sich an der dorsalen Seite des Archenterons 
+- Archenteron = die primitiven Darmhöhle, die während der Gastrulation entsteht 
+- abgeflachte Zellen in einem „Stapel von Münzen“- Muster 
+- mechanische Stabilisierung der Körperachse
+### Amphioxus Hautzellen
+![[Bildschirmfoto 2024-12-27 um 17.30.09.png]]
+- Epidermis besteht aus einem einschichtigen columnaren Epithel
+### Amphioxus-Larve
+-  schwimmen durch Wellenbewegungen 
+- muskulöser Schwanz
+- von der Chorda dorsalis gestützt
+![[GIF von Imgflip (25).gif|700]]
+#### Amphioxus-Larve - Nahrung
+![[GIF von Imgflip (26).gif|800]]
+### Amphioxus - Sinnesorgane
+![[Bildschirmfoto 2024-12-27 um 17.32.44.png]]
+- Der Kopf einer Amphioxus- Larve, zeigt seine vier Photorezeptorsysteme (Ursprüngliches Auge ???)
+	- Mund (m), 
+	- präorale (Hatscheks) Grube (p), 
+	- rostrale (rp) und orale (op) Papillen(Ausstülpung), 
+	- Chorda (schattiert)
+>[!info] Warum ist das alles wichtig?
+> - wichtige Bestandteile mariner Nahrungsketten 
+> - Verständnis der Evolution von Körperplänen 
+> - Nahrungsquelle (nur in Japan und Korea) 
+> - unerforschte Vielfalt Ursprung der Chordatiere und Vertebrata 
+> - das Endostyl ist einfach cool 
+> - usw.
+
+>[!info] Besonders für die Klausur ist es wichtig …
+>- Phylogenie der Chordata (auf Stamm-Ebene) 
+>- Gruppen innderhalb der Manteltiere 
+>- Funzion Endostyl 
+>- Definition: Chorda, Neuralrohr 
+>- Körperbau: Manteltiere, Amphioxus 
+>- Nahrung: Ascidien, Amphioxus, Appendicularia 
+>- Vertreter der Chordata (als Larve und Adult) zu erkennen
+
+
+---
+# Vorlesung 11: Das Tierreich - Vertebrata
+![[Bildschirmfoto 2024-12-27 um 17.47.32.png]]
+## Vertebrata - Wirbeltiere
+![[Bildschirmfoto 2024-12-27 um 17.59.27.png]]
+- axiales Skelett und Kopfskelett 
+- Neuralleiste 
+- Plakoden (verdickte epidermale Areale im Wirbeltierembryo, aus denen sich Sinnesorgane und Nervensystemanteile entwickeln) 
+- gepaarte Sinnesorgane im Kopfbereich (Augen, Ohren) 
+- genomische Komplexität aufgrund von zwei Genomduplikation
+![[Bildschirmfoto 2024-12-27 um 18.00.35.png]]
+## Phylogenie - Vertebrata
+![[Bildschirmfoto 2024-12-27 um 18.00.59.png]]
+- *Rundmäuler* (Cyclostomata, auch Agnatha oder Kieferlose) 
+- *Kiefermäuler* (Gnathostomata)
+- **A-Gnatha** (ohne-Kiefer, Gnathos=Kiefer) 
+- **Cyclo-Stomata** (Rund- Mund, Stoma=Mund) 
+- **Gnatho-Stomata** (Kiefer- Mund)
+
+>[!Beispiel] Haikouichthys
+>![[Bildschirmfoto 2024-12-27 um 18.03.19.png]]
+> - unterkambrisches Wirbeltier Haikouichthys (~525 Mio. J.) 
+> - Augen, Nasensäckchen, Ohrkapseln 
+> - Rücken- und Bauchflossen 
+> - V-förmig angeordnete Myomere (wie Amphioxus) 
+> - der Stammgruppe der Craniata zugeordnet
+
+>[!Beispiel] Metaspriggina - Burgess-Schiefer (505 Mio. J.)
+>- eindeutige Merkmale der Wirbeltiere 
+>- Chorda dorsalis 
+>- ein Paar prominenter Kamera-Augen 
+>- gepaarte Nasensäcke 
+>- ein Schädel 
+>- V-förmige Myomere 
+>- postanaler Schwanz
+>![[Bildschirmfoto 2024-12-27 um 18.05.22.png]]
+> *Metaspriggina, ein Stammgruppen-Wirbeltier (Maßstäbe: 5 mm)*
+> ![[Bildschirmfoto 2024-12-27 um 18.05.46.png]]
+## Rundmäuler (Cyclostomata)
+![[Bildschirmfoto 2024-12-27 um 18.06.22.png]]
+*Petromyzon marinus (Lamprey)*
+- Neunaugen und Schleimaale (einzige überlebende der Gruppe!)
+- keinen Kiefer - saugen meist Blut/Körperflüssigkeiten aus ihrer Beute 
+- Schädel 
+- aalartiger, langgestreckter, schuppenloser Körper 
+- keine Flossen 
+- Chorda dorsalis 
+- ~130 Arten
+### Rundmäuler (Cyclostomata) - Fossilien
+![[Bildschirmfoto 2024-12-27 um 18.07.25.png]]
+*Myxinikeka*
+![[Bildschirmfoto 2024-12-27 um 18.07.38.png]]
+- Stammgruppe Schleimaale - ~310 Mio. J.
+### Neunaugen (Petromyzontiformes)
+![[Bildschirmfoto 2024-12-27 um 18.08.30.png]]
+*Petromyzon marinus*
+- aalartige, langgestreckte Körper 
+- zwei Augen, keine Kiefer 
+- rundliches Maul mit Hornzähnen
+![[Bildschirmfoto 2024-12-27 um 18.09.05.png]]
+*Neunaugen an einem Seesaibling*
+![[Pasted image 20241227180947.png]]
+#### Neunaugen - Körperbau
+![[Bildschirmfoto 2024-12-27 um 18.10.03.png]]
+-  laichen im Oberlauf von Bächen und Flüssen 
+- Adulte leben als Parasiten im Meer 
+- fressen Blut und Fleischstücke
+- Römer nutzten die zur Folterung der Sklaven
+#### Neunaugen-Larve (Ammocoete, Querder) - Endostyl
+![[Bildschirmfoto 2024-12-27 um 18.16.49.png]]
+- Im Verauf der Entwicklung wird die Larve mehr Wirbeltier ähnlich
+### Schleimaale (Myxini)
+![[Bildschirmfoto 2024-12-27 um 18.18.44.png]]
+- ~50 cm 
+- mit Schädel, aber keine Wirbelsäule 
+- marine Raubtiere und Aasfresser 
+- Selbstverteidigung mit Schleim
+
+![[Bildschirmfoto 2024-12-27 um 18.19.04.png]]
+*Querschnitt*
+knorpelige Chorda dorsalis
+
+#### Schleimaale - Masters of Schleim…
+![[GIF von Imgflip (27).gif|800]]
+- produzieren reichlich Mengen an milchigem und faserigem Schleim 
+- Abwehrmechanismus 
+- der Schleim hat sehr dünne Fasern aus Proteinen
+- Ein riesen Nasenloch!
+- ![[Pasted image 20241227182042.png]]
+## Gnathostomata
+![[Bildschirmfoto 2024-12-27 um 18.22.41.png]]
+- kiefertragende Wirbeltieren 
+- gelenkiger Kiefer 
+- gepaarter Gliedmaßen 
+- Spezialisierung des axialen Skeletts entlang der anteroposterioren Achse 
+- adaptives Immunsystem
+### Notochord - Chorda dorsalis
+![[Bildschirmfoto 2024-12-27 um 18.23.14.png]]
+- das axiale Skelett des Embryos 
+- in den Kieferlosen (Neunaugen), und bei Fischen wie Stören, bleibt die Chorda lebenslang erhalten 
+- bei anderen Wirbeltieren **verknöchert** die Chorda
+![[Bildschirmfoto 2024-12-27 um 18.23.48.png]]
+*Petromzyon marinus(Neunauge) Querschnitt des Schwanzes*
+![[GIF von Imgflip (29).gif|700]]
+-  das definierende Merkmal der Wirbeltiere 
+- segmentierte Serie einzelner Knochen (Wirbeln)
+## Wirbelsäule
+![[Bildschirmfoto 2024-12-27 um 18.26.15.png]]
+### Vertebrae - Wirbeln
+![[Bildschirmfoto 2024-12-27 um 18.26.54.png]]
+- Wirbelsäule = segmentierter Serie einzelner Knochen, den Wirbeln 
+- Zentrum (c) und Wirbelbögen (va) 
+- neurale Wirbelbögen (na) bilden sich dorsal um das Rückenmark 
+- hämale Bögen (ha) befinden sich ventral um die axillären Blutgefäße
+### Vertebrae - Wirbeln, Evolution
+![[Bildschirmfoto 2024-12-27 um 18.27.40.png]]
+*Die Phylogenie und das Erscheinungsbild von Wirbelstrukturen in den Wirbeltierstämmen*
+- Wirbelbögen in der Stammgruppe der Vertebrata 
+- Zentren nur bei den Gnathostomen 
+- mineralisierte Wirbelstrukturen im fossilen Euphanerops (Devon vor etwa 380 Mio. J.)
+### Plakoden
+![[Bildschirmfoto 2024-12-27 um 18.29.04.png]]
+- gepaarte Ektodermale Ausdickungen 
+- Bildung einer Reihe spezialisierter Strukturen des Kopfes 
+- “sensorische Plakoden” bilden Auge, Ohr, Seitenlinie und Riechorganen 
+- “neurogenen Plakoden” bilden sensorische Neuronen zu den Hirnnervenganglien
+
+>[!info] Zusatzwissen
+>Als **Plakoden** oder **Placoden** werden [Epidermisareale](https://de.wikipedia.org/wiki/Epidermis_(Wirbeltiere) "Epidermis (Wirbeltiere)") bei Wirbeltierembryonen bezeichnet, aus denen sich u. a. Anteile der Augen (Linse) und des [Innenohrs](https://de.wikipedia.org/wiki/Innenohr "Innenohr") (Sinneszellen) entwickeln.
+>Neurogene **Plakoden** sind Verdickungen des [Epithels](https://de.wikipedia.org/wiki/Epithel "Epithel") in der Ektodermschicht des Embryonenhirns, aus denen Neuronen und andere Strukturen des Sensorischen Nervensystems entstehen.
+### Neuralleiste (Eng.: neural crest)
+![[Bildschirmfoto 2024-12-27 um 18.30.48.png]]
+- ein entscheidendes Merkmal der Wirbeltiere 
+- entsteht während der Entwicklung (**Neurulation**) 
+- an der Grenze zwischen Neuralplatte und Oberflächenektoderm 
+- wandernde Zellen 
+- während der Entwicklung leisten einen Beitrag zur Entwicklung des Schädels, Branchialskeletts und der sensorischen Ganglien
+![[Bildschirmfoto 2024-12-27 um 18.31.25.png]]
+*Wanderung der Neuralleistenzellen und Beitrag zu verschiedenen Geweben und Organen*
+![[Gif von Imgflip (30).gif|700]]
+## Vertebrata - Schädel
+![[Bildschirmfoto 2024-12-27 um 18.34.55.png]]
+- eine der komplexesten Strukturen im Skelett der Wirbeltiere 
+- eintwickelt sich aus der Neuralleiste und aus dem Mesoderm
+### Der Großteil des Schädels stammt aus Neuralleistenzellen
+![[Bildschirmfoto 2024-12-27 um 18.35.35.png]]
+- Der Beitrag der Neuralleiste (rot) und des Mesoderms (blau und grün) zum Schädel- Skelett des Vogel-Embryos 
+- seitliche (oberes Bild) und ventrale (unteres Bild) Ansicht des embryonalen Kopfskeletts
+
+>[!Quizfrage] Welche Antwort ist richtig (nur eine)?
+>A) Neunaugen sind Wirbeltiere aber nicht Chordatiere 
+>B) Der Schädel entwickelt sich aus dem Endoderm 
+>C) Agnatha haben keine Chorda dorsalis 
+>**D) In vielen Wirbeltieren kann die Chorda dorsalis verknöchern und die Wirbel bilden** 
+>E) In Wirbeltieren erstreckt sich die Chorda dorsalis am weitesten anterior, bis vor die Gehirnblase.
+## Entwicklung des Kiefers
+![[Bildschirmfoto 2024-12-27 um 18.37.28.png]]
+- Placodermata oder Panzerfische 
+- ausgestorbene Gnathostomata 
+- Zähne selbst bei den frühesten Kieferwirbeltieren vorhanden
+![[Bildschirmfoto 2024-12-27 um 18.37.49.png]]
+#### drei Hypothesen zur Entstehung der Kiefers
+![[Bildschirmfoto 2024-12-27 um 18.38.07.png]]
+*Drei Hypothesen zur Entstehung der Kiefer auf der Grundlage morphologischer Beobachtungen.*
+- jede Spalte repräsentiert ein hypothetisches Szenario 
+- Ursprünge der Kiefer von einem allgemeinen Zustand im Vorfahren der Kieferträger (oben) 
+- bis zu einem allgemeinen Zustand bei den **Gnathostomen** (unten).
+
+>[!info] Warum ist das alles wichtig?
+> - wichtige Bestandteile mariner und terrestrischer Nahrungsketten 
+> - Verständnis der Evolution von Körperplänen 
+> - Nahrungsquellen für Menschen 
+> - unerforschte Vielfalt 
+> - Ursprung der Vertebrata 
+> - Wirbeltiere sind medizinisch relevant (z.B. H. sapiens)
+
+>[!info] Was zu wissen ist
+>- Phylogenie der Chordata (auf Stamm-Ebene) 
+>- Wirbeltier Innovationen 
+>- Gruppen innderhalb der Wirbeltiere 
+>- Cyclostomata: Körperbau, Nahrungsaufnahme 
+>- Definition: Chorda dorsalis, Wirbelsäule, Neuralleiste und Neuralleistenzellen, Plakoden 
+>- Schädel: embryonaler und evolutionärer Usprung
